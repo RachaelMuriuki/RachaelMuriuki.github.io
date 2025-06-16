@@ -27,13 +27,16 @@ author_profile: true
 
 ## 🚀 Projects
 **Netflix Dataset -Data Wrangling with Pandas**<br>
--Cleaned and transformed a messy Netflix dataset using Python and Pandas. Handled missing values, converted data types and made it ready for analysis
+-Cleaned and transformed a messy Netflix dataset using Python and Pandas. Handled missing values, converted data types and made it ready for analysis <br>
+https://www.kaggle.com/code/rachelmuriuki/netflix-nb-data-wrangling
 
 **Titanic Dataset -Exploratory Data Analysis**<br>
--Explored the famous Titanic dataset to find survival trends. Used Python, Pandas, Matplotlib and Seaborn to visualize key patterbs like age, gender and class impact on survival
+-Explored the famous Titanic dataset to find survival trends. Used Python, Pandas, Matplotlib and Seaborn to visualize key patterbs like age, gender and class impact on survival <br>
+https://www.kaggle.com/code/rachelmuriuki/eda-titanic
 
 **Power BI Hospitality Report**<br>
--Built an interactive Power BI dashboard using a hospitality dataset. Included visuals like slicers, KPIs and bar chartd to show trends in bookings, cancellations and revenue
+-Built an interactive Power BI dashboard using a hospitality dataset. Included visuals like slicers, KPIs and bar chartd to show trends in bookings, cancellations and revenue <br>
+https://drive.google.com/drive/folders/1rpqK5d2clIBCq5-XxUr4G_PA2sJ09djZ -link to my drive
 
 **Web Scraping with BeautifulSoup and Pandas**<br>
 -Used Python, Requests and BeautifulSoup to scrape data from a webiste. Parsed th HTML, cleaned the data, stored it in a Pandas Dataframe and exported it to a .csv file - all in Google Colab notebook
@@ -48,7 +51,7 @@ author_profile: true
 
 ---
 
-##Contact
+## Contact
 Email: [rachealmuriuki488@gmail.com] (mailto:rachealmuriuki488@gmail.com) <br>
 LinkedIn: [linkedin.com/in/rachaelwmuriuki] (https://linkedin.com/in/rachaelwmuriuki) <br>
 GitHub: [github.com/RachaelMuriuki] (https://github.com/RachaelMuriuki) <br> 
