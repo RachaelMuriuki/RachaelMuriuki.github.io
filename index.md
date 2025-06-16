@@ -40,10 +40,17 @@ author_profile: true
 
 ---
 
-## 🔧 Tech Stack
-. Languages & Tools<br>
-Python    Power BI   MySQL
-R         SQL        Microsoft Office
+## 🔧 Skills
+**IT Support:** Troubleshooting, Configurations <br>
+**Networking:** Basic routing, switching, security <br>
+**Data:** Power BI, R, SQL, Excel, MySQL <br>
+**Soft:** Fast learner, communicator, team player <br>
 
 ---
 
+##Contact
+Email: [rachealmuriuki488@gmail.com] (mailto:rachealmuriuki488@gmail.com) <br>
+LinkedIn: [linkedin.com/in/rachaelwmuriuki] (https://linkedin.com/in/rachaelwmuriuki) <br>
+GitHub: [github.com/RachaelMuriuki] (https://github.com/RachaelMuriuki) <br> 
+
+---
