@@ -41,7 +41,7 @@ author_profile: true
 ---
 
 ## 🔧 Tech Stack
-. Languages & Tools
+. Languages & Tools<br>
 Python    Power BI   MySQL
 R         SQL        Microsoft Office
 
