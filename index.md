@@ -8,6 +8,11 @@ author_profile: true
 
 ---
 
+## 🎓 Education
+**Bsc in Information Technology**, Jomo Kenyatta University of Agriculture and Technology
+
+---
+
 ## 💼 Experience
 **KETRB - IT Support Assistant** (May 2025 - Present)<br>
 .Solved computer and software problems<br>
@@ -17,11 +22,6 @@ author_profile: true
 .Asssisted in configuring and maintaining local network infrastructure<br>
 .Resolved hardware and software issues<br>
 .Assisted in backing up data and moving files to new systems
-
----
-
-## 🎓 Education
-**Bsc in Information Technology**, Jomo Kenyatta University of Agriculture and Technology
 
 ---
 
